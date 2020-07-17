@@ -4,6 +4,12 @@
 
 ---
 
+## July 17
+
+Today I spent some time looking through localisation (l18n) solutions for my side gig. I plan to use the l18next framework. I also had a look at some micro JS libraries. It's pretty amazing to see powerful libraries that are really small in file size.
+
+---
+
 ## July 16
 
 I've spent the past few days working on my side hustle. Today, I learnt how to use Netlify to host my side hustle website. It's a pretty smooth process. I'm having a lot of fun! 😜
