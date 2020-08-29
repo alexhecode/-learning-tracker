@@ -4,6 +4,18 @@
 
 ---
 
+## August 29
+
+I've been working on my side business. It's been fun yet I can't deny that its been a little frustrating, especially on the logistic side of things.
+
+Other than that, I've been learning how to use Webpack and Nunjucks. I am writing up an opinionated boilerplate called [Gobble](https://github.com/ioalex/gobble) to start web development projects more quickly.
+
+I am also in the process of creating a CLI tool called [Jarvis](https://github.com/ioalex/jarvis) that I will use for the same purpose, however with Jarvis, it is less opinionated and I will be able to select what tools I need every time I boot-up the CLI. Jarvis will then inject my pre-configured configuration files for said tools into the new project.
+
+Some time in the future, I would like to create a Jarvis spin-off of sorts that will allow others to create their own CLI tool that does the same.
+
+---
+
 ## August 19
 
 Still building the website for my side business! 😛
