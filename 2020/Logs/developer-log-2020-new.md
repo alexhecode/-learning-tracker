@@ -4,6 +4,12 @@
 
 ---
 
+## August 30
+
+Discovered a Git client app for iOS called [Working Copy](https://workingcopyapp.com) and downloaded it straight away. Hopefully this app will help me to log entries here more often! 😛
+
+---
+
 ## August 29
 
 I've been working on my side business. It's been fun yet I can't deny that its been a little frustrating, especially on the logistic side of things.
